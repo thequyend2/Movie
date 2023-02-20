@@ -5,12 +5,12 @@
 - Source api and design: https://developers.themoviedb.org/3/getting-started/introduction
 
 - Technology Used: 
-  HTML5
-  CSS3
-  Javascript (ES6, ES7)
-  ReactJs
-  Styled-component
-  React router
+  HTML5,
+  CSS3,
+  Javascript (ES6, ES7),
+  ReactJs,
+  Styled-component,
+  React router.
  
  - Clone the repo: 
   git clone https://github.com/thequyend2/Movie.git
